@@ -1,2 +1,2 @@
 # CAD-Visualization
-Use Python to visualize complex 2D and 3D curves and surfaces
+THis is a basic Python program with a GUI to visualize complex 2D and 3D CAD curves and surfaces
